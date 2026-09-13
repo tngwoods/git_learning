@@ -3,3 +3,4 @@
 版本 0.1.0
 test
 补充的说明
+本项目采用 GitHub Flow
